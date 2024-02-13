@@ -1,0 +1,8 @@
+{
+  "name": "cs445app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "748fbd7d"
+}
